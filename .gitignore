@@ -1,0 +1,5 @@
+*.log
+*.store
+.deno
+toopac.config.yaml
+.DS_Store
